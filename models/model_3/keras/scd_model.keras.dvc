@@ -1,5 +1,0 @@
-outs:
-- md5: d4e34f3f5b4ae9069b857e1be0512d90
-  size: 122897745
-  hash: md5
-  path: scd_model.keras

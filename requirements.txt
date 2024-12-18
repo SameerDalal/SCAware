@@ -1,0 +1,8 @@
+cerebras.cloud.sdk
+tensorflow
+numpy
+streamlit
+wfdb
+plotly
+SpeechRecognition
+PyAudio
