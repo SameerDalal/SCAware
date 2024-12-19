@@ -6,3 +6,4 @@ wfdb
 plotly
 SpeechRecognition
 PyAudio
+gdown
