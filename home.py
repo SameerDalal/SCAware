@@ -123,7 +123,7 @@ def main():
     if(arg == 'normal'):
         process_ecg('./data/test_data/normal/18177')
     if(arg == 'sca'):
-        process_ecg('./data/test_data/SCD/P0024')
+        process_ecg('./data/test_data/SCD/P0016')
     print("Faulty argument passed")
     return
 
